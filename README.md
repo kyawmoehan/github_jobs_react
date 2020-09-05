@@ -1,3 +1,11 @@
+# GitHub Jobs App
+
+This project is a Jobs Portal App base on GitHub Jobs API.
+
+<p style="color:#c42727">Note: GitHub Job Api has Blocked CROS-Origin. So I have to use Reverse proxy CORS Anywhere. But sometime CORS Anywhere give 429(Too Many Requests).</p>
+
+![GitHub Jobs App](./githubjobs.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
